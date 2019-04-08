@@ -1,0 +1,30 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="PoemYealy.com" resolutions="1x" timestamp="1554690782168">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4165237718" ref="variation-1:variation-3:index:variation-2"/>
+    <file name="variation-1.css" crc="459805614" ref="variation-1"/>
+    <file name="variation-3.css" crc="308406914" ref="variation-3"/>
+    <file name="index.css" crc="4133313108" ref="index"/>
+    <file name="variation-2.css" crc="22591332" ref="variation-2"/>
+  </folder>
+  <folder name="assets">
+    <file name="poem_yealy.html" crc="4118624564" seo="true" mt="1554126476000"/>
+    <file name="rain1.jpg" crc="3918098983" seo="true" mt="1552919106000"/>
+    <file name="rain.mp3" crc="80377544" seo="true" mt="1509515596000"/>
+    <file name="poem3.html" crc="454894742" seo="true" mt="1554130416000"/>
+    <file name="poem2.html" crc="4170618344" seo="true" mt="1554689958000"/>
+    <file name="poem32.html" crc="277422466" seo="true" mt="1554689678000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:variation-1:variation-2:variation-3"/>
+    <file name="museutils.js" crc="340535759" ref="index:variation-1:variation-2:variation-3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:variation-1:variation-2:variation-3"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:variation-1:variation-2:variation-3"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:variation-1:variation-2:variation-3"/>
+    <file name="require.js" crc="7928878" ref="index:variation-1:variation-2:variation-3"/>
+  </folder>
+  <file name="index.html" crc="377989853" seo="true" mt="1554688642338" redirect="true"/>
+  <file name="variation-1.html" crc="217017881" seo="true" mt="1554688824092" redirect="true"/>
+  <file name="variation-2.html" crc="3797288700" seo="true" mt="1554690245853" redirect="true"/>
+  <file name="variation-3.html" crc="4179254492" seo="true" mt="1554689823217" redirect="true"/>
+</manifest>
